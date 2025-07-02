@@ -1,0 +1,13 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\imale\source\repos\opengl linking\opengl linking\main.cpp(19,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\imale\source\repos\opengl linking\opengl linking\main.cpp(19,8): error C2146: syntax error: missing ';' before identifier 'first_number_string'
+C:\Users\imale\source\repos\opengl linking\opengl linking\main.cpp(127,35): error C2065: 'first_number_string': undeclared identifier
+C:\Users\imale\source\repos\opengl linking\opengl linking\main.cpp(180,5): error C2065: 'first_number_string': undeclared identifier
+  Generating Code...

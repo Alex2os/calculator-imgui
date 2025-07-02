@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\imale\\source\\repos\\opengl linking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C09E4A7-CFD0-4C47-AB04-6C432582E357}|opengl linking\\opengl linking.vcxproj|C:\\Users\\imale\\source\\repos\\opengl linking\\opengl linking\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C09E4A7-CFD0-4C47-AB04-6C432582E357}|opengl linking\\opengl linking.vcxproj|solutionrelative:opengl linking\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C09E4A7-CFD0-4C47-AB04-6C432582E357}|opengl linking\\opengl linking.vcxproj|C:\\Users\\imale\\source\\repos\\opengl linking\\opengl linking\\calculate_algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C09E4A7-CFD0-4C47-AB04-6C432582E357}|opengl linking\\opengl linking.vcxproj|solutionrelative:opengl linking\\calculate_algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\imale\\source\\repos\\opengl linking\\opengl linking\\main.cpp",
+              "RelativeDocumentMoniker": "opengl linking\\main.cpp",
+              "ToolTip": "C:\\Users\\imale\\source\\repos\\opengl linking\\opengl linking\\main.cpp",
+              "RelativeToolTip": "opengl linking\\main.cpp",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T19:40:06.793Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calculate_algorithm.cpp",
+              "DocumentMoniker": "C:\\Users\\imale\\source\\repos\\opengl linking\\opengl linking\\calculate_algorithm.cpp",
+              "RelativeDocumentMoniker": "opengl linking\\calculate_algorithm.cpp",
+              "ToolTip": "C:\\Users\\imale\\source\\repos\\opengl linking\\opengl linking\\calculate_algorithm.cpp",
+              "RelativeToolTip": "opengl linking\\calculate_algorithm.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T22:39:14.604Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
